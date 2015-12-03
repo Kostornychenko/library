@@ -1,0 +1,22 @@
+{
+  "name": "fairray",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bulldog92/sites_admin",
+  "authors": [
+    "bulldog92 <kozynets.dmytro@gmail.com>"
+  ],
+  "description": "sites_helper",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+"dependencies": {
+    "angular-ui-router": "~0.2.15",
+    "angular-messages": "~1.4.3",
+    "angular-material": "~0.11.2"
+  }
+}
